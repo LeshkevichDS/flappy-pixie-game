@@ -1,6 +1,6 @@
 # Flappy Pixie Game
 
-<a href="https://leshkevichds.github.io/booking-calendar/">Deploy link</a>
+<a href="https://leshkevichds.github.io/flappy-pixie-game/">Deploy link</a>
 
 # Technology stack
 
